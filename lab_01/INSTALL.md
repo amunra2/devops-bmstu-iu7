@@ -8,7 +8,7 @@
 
 Видео, которое легло в основу туториала 
 
-[How To Install Ubuntu 22.10 On M1 or M2 Mac || RUN NEW Ubuntu On ANY Mac W/ Apple Silicon Using UTM](https://www.youtube.com/watch?v=O19mv1pe76M&t=780s)
+[How To Install Ubuntu 22.10 On M1 or M2 Mac || RUN NEW Ubuntu On ANY Mac W/ Apple Silicon Using UTM](https://www.youtube.com/watch?v=O19mv1pe76M)
 
 > 📕 **Упоминание**
 > 1. Для установки виртуальных машин будет использоваться программа **UTM**.
